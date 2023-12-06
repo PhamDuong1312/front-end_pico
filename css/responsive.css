@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+    #follow,#user{
+        display: none;
+    }
+    #btn-menu{
+        display:block;
+        color: black;
+        margin-left:20px;
+        border-left:1px solid black;
+    }
+    #header-top{
+        display: none;
+    }
+    #global-banner{
+        
+    }
+    #main-menu-bottom-r{
+        display: none;
+    }
+    
+}
+@media (min-width: 768px) and (max-width: 992px) {
+    
+
+#header-top-right a{
+    margin-left:20px;
+} 
+    #search input{
+        width: 90%;
+    }
+}
